@@ -1,0 +1,8 @@
+15:14:02.470 [main] INFO  Resources.Base - Navigated to home page
+15:14:14.404 [main] INFO  Resources.Base - restricteduser
+15:14:15.932 [main] INFO  Resources.Base - non restricted usr
+15:14:19.447 [main] INFO  Resources.Base - Driver is initialized
+15:14:23.332 [main] INFO  Resources.Base - Navigated to home page
+16:05:30.733 [TestNG-tests-3] INFO  Resources.Base - Driver is initialized
+16:08:58.533 [TestNG-tests-3] INFO  Resources.Base - Driver is initialized
+16:09:05.367 [TestNG-tests-3] INFO  Resources.Base - Navigated to home page

@@ -1,0 +1,7 @@
+13:03:12.098 [TestNG-tests-1] INFO  Resources.Base - Navigated to home page
+13:03:12.143 [TestNG-tests-3] INFO  Resources.Base - Successfully validated text message
+13:03:13.658 [TestNG-tests-2] INFO  Resources.Base - restricteduser
+13:03:15.400 [TestNG-tests-2] INFO  Resources.Base - non restricted usr
+13:05:47.040 [TestNG-tests-3] INFO  Resources.Base - Driver is initialized
+13:05:55.422 [TestNG-tests-3] INFO  Resources.Base - Navigated to home page
+13:05:55.432 [TestNG-tests-1] INFO  Resources.Base - Navigated to home page

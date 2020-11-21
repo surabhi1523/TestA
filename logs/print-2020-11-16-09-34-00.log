@@ -1,0 +1,7 @@
+09:25:14.855 [TestNG-tests-2] INFO  Resources.Base - restricteduser
+09:25:16.359 [TestNG-tests-2] INFO  Resources.Base - non restricted usr
+09:32:52.755 [TestNG-tests-3] INFO  Resources.Base - Driver is initialized
+09:32:57.458 [TestNG-tests-3] INFO  Resources.Base - Navigated to home page
+09:32:57.905 [TestNG-tests-1] INFO  Resources.Base - Navigated to home page
+09:33:51.900 [TestNG-tests-3] INFO  Resources.Base - Driver is initialized
+09:34:00.174 [TestNG-tests-3] INFO  Resources.Base - Navigated to home page
