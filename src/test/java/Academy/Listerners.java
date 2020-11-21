@@ -25,7 +25,7 @@ public class Listerners extends Base implements ITestListener
 	@Override
 	public void onTestStart(ITestResult result) {
 		// TODO Auto-generated method stub
-		System.out.println("Inside test start");
+		System.out.println("Inside test start  1234567");
 		
 		//To print which test case is executing we are printing its name 
 		test = extent.createTest(result.getMethod().getMethodName());
