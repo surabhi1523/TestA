@@ -34,7 +34,7 @@ public class HomePage extends Base
 	@Test(dataProvider="getDataToTC")
 	public void pageNavigationBaseFromHome(String username, String password, String text) throws IOException
 	{	
-		System.out.println("You are in homePage class");
+		
 		driver.get(prop.getProperty("url"));
 		
 		// We can access methods using inheritance and other is by creating object
